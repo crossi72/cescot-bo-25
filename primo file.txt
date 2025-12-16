@@ -1,3 +1,4 @@
 questo è un file di esempio
 consente di verificare il funzionamento del controllo di versione
 questa riga è presente solamente nella seconda commit
+ho aggiunto una riga da un'altra postazione
